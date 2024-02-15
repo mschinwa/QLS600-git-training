@@ -42,3 +42,8 @@ github handle: cmvcordova
 I am a student in QLS 2023 batch. I am currently doing my 2nd rotation with Prof. Daniel Gutton.
 email: ashim.pandey@mail.mcgill.ca
 github handle: ashimpandey
+
+# Matthew Schinwald
+I am a QLS student in the 2023 cohort.
+email: matthew.schinwald@mail.mcgill.ca
+github handle: mschinwa
